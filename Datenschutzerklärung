@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Datenschutzerklärung</title>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <p>Datenschutzerklärung für Lusha Phone Finder Extension
+
+1. Datenerfassung
+- Die Extension liest Namen und Firmennamen von HubSpot-Kontaktseiten
+- Diese Daten werden nur zur Abfrage von Telefonnummern über die Lusha API verwendet
+- Es werden keine Daten gespeichert
+
+2. Datenverarbeitung
+- Alle Daten werden nur temporär im Arbeitsspeicher verarbeitet
+- Daten werden ausschließlich für die Telefonnummernsuche verwendet
+- Die einzige externe Kommunikation erfolgt mit der Lusha API
+
+3. Datenweitergabe
+- Keine Weitergabe an Dritte außer Lusha API
+- Keine Speicherung von Verlaufsdaten
+- Keine Verwendung für andere Zwecke
+
+4. Datensicherheit
+- Verschlüsselte Kommunikation (HTTPS)
+- Keine lokale Datenspeicherung
+- Minimale Datenverarbeitung
+
+5. Nutzerrechte
+- Keine Datenspeicherung bedeutet keine notwendigen Lösch- oder Auskunftsrechte
+- Die Extension kann jederzeit deaktiviert oder deinstalliert werden
+
+6. Kontakt
+Jonas Saßenberg
+Greifswalder Straße 208
+10405 Berlin
+jonas.sassenberg@mercanis.com
++49 15777443826
+
+Letzte Aktualisierung: 02.08.2025</p>
+
+</body>
+</html>
